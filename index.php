@@ -76,7 +76,7 @@ class STMLMSCustom {
 
 		// Add your templates to this array.
 		$this->templates = array(
-			'greenbackend-template' => 'Greenbackend Template',
+			'greenbackend-template.php' => 'Greenbackend Template',
 		);
 
 	}
